@@ -51,7 +51,7 @@
 ## Professional Contact
 
 * **LinkedIn:** [linkedin.com/in/seharandleeb](https://www.linkedin.com/in/seharandleeb)
-* **Email:** [Your Email Address]
+* **Email:** seharm518@gmail.com
 
 ---
 
