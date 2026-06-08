@@ -39,7 +39,7 @@
 
 ---
 
-## Professional Development & Research
+##  Development & Research
 
 * Fine-tuning and deploying Large Language Models (LLMs)
 * Optimizing Deep Learning architectures for production
@@ -48,7 +48,7 @@
 
 ---
 
-## Professional Contact
+## Contact
 
 * **LinkedIn:** [linkedin.com/in/seharandleeb](https://www.linkedin.com/in/seharandleeb)
 * **Email:** seharm518@gmail.com
