@@ -1,66 +1,69 @@
 # Sehar Andleeb
 
-<img align="right" alt="AI and Software Engineering Concept" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBxN3ZsOHU4cWZpcDhhdTZwaWVjZnZmOWtncmJ6NmV4eGV6aXMyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
-
-### Undergraduate AI Engineer
-* **Specializations:** Artificial Intelligence, Natural Language Processing (NLP), and Deep Learning
-* **Core Focus:** Developing scalable AI-powered solutions using Python and Machine Learning
-* **Research Interests:** Large Language Models (LLMs), Anomaly Detection, and Advanced NLP architectures
+**AI Engineer Intern — Xeven Solutions, Pakistan**  
+Currently completing a structured 30-day AI and Machine Learning
+internship, building practical skills through daily hands-on projects,
+research, and documentation.
 
 ---
 
-## Technical Skills
+## About Me
 
-### Languages & Frameworks
-* **Languages:** Python, SQL
-* **Data Science & ML:** NumPy, Pandas, Scikit-learn
-* **Deep Learning:** TensorFlow, PyTorch
-
-### Core Domains
-* Machine Learning & Deep Learning
-* Natural Language Processing (NLP)
-* Data Analysis & Visualization
-* AI Automation & Predictive Modeling
-
-### Tools & Platforms
-* **Version Control:** Git, GitHub
-* **Development Environments:** VS Code, Google Colab
-* **Deployment & BI:** Streamlit, Power BI
+I am an AI Engineer Intern at Xeven Solutions with a focus on
+developing strong foundations in Python, Machine Learning, and AI
+system development. I document my entire learning journey publicly
+on GitHub, committing every single day for 30 days.
 
 ---
 
-## Featured Projects
+## Current Tech Stack
 
-* **AI Resume Reviewer** – An automated screening system designed to evaluate and score resumes based on job descriptions.
-* **Resume Parsing via RoBERTa** – A specialized NLP pipeline utilizing transformer models for information extraction.
-* **Named Entity Recognition (NER)** – Custom sequence labeling models built for domain-specific entity extraction.
-* **Fake News Detection** – A recurrent neural network architecture leveraging LSTM networks to classify misinformation.
-* **Smart Grid Anomaly Detection** – Machine learning models optimized for identifying irregularities and faults in power grids.
-
----
-
-##  Development & Research
-
-* Fine-tuning and deploying Large Language Models (LLMs)
-* Optimizing Deep Learning architectures for production
-* Implementing MLOps for automated AI deployment
-* Model quantization and inference optimization
+| Category | Tools |
+|---|---|
+| Language | Python 3.13 |
+| Environment | UV Virtual Environment |
+| Editor | VS Code |
+| Version Control | Git, GitHub |
+| Notebooks | Jupyter Notebook |
+| Currently Learning | Pandas, NumPy, Scikit-learn |
 
 ---
 
-## Contact
+## 30-Day Internship Progress
 
-* **LinkedIn:** [linkedin.com/in/seharandleeb](https://www.linkedin.com/in/seharandleeb)
-* **Email:** seharm518@gmail.com
+| Day | Topic | Status |
+|---|---|---|
+| Day 01 | AI Fundamentals, Environment Setup, Git and GitHub | Done |
+| Day 02 | Python Fundamentals | Upcoming |
+| Day 03 | Data Types and Variables | Upcoming |
+| Day 04 | Functions and Modules | Upcoming |
+| Day 05 | Object Oriented Programming | Upcoming |
+
+> This table is updated daily throughout the internship.
 
 ---
 
-## Analytics
+## What I Am Building
 
-![Sehar's GitHub stats](https://github-readme-stats.vercel.app/api?username=seharandleeb&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seharandleeb&layout=compact&theme=tokyonight)
+- Daily Python scripts following PEP 8 standards
+- Jupyter notebooks with research, code, and documentation
+- Machine Learning models on real datasets
+- A public learning record that reflects consistency and growth
 
 ---
 
-> "Architecting intelligent systems to solve complex data challenges."
+## Internship Repository
+
+All daily work, notebooks, scripts, and learnings are documented here:  
+**https://github.com/seharandleeb/ai-internship-xeven-2026**
+
+---
+
+## GitHub Activity
+
+I commit every single day as part of my internship commitment.
+The green contribution graph is a direct reflection of that consistency.
+
+---
+
+*Open to connecting with AI professionals, mentors, and fellow learners.*
