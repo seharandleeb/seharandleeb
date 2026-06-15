@@ -2,7 +2,8 @@
 <div align="center">
 
 <a href="https://github.com/seharandleeb">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Sehar+Andleeb+%F0%9F%91%8B;AI+Engineer+%7C+ML+%26+LLM+Developer;Building+Intelligent+Systems%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I+am+Sehar+Andleeb;AI+Engineer+%7C+ML+%26+LLM+Developer;Building+Intelligent+Systems+Daily" alt="Typing SVG" />
+</a>
 </a>
 
 <br/>
