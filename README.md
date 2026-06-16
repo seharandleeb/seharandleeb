@@ -22,7 +22,7 @@
 
 I design and build **applied AI systems** — from classical ML models to **LLM-powered, RAG-based applications**. I learn in public, ship daily, and document everything.
 
-**Currently on Day 16 of 30 — LangChain agents with Groq** · [See full journey →](https://github.com/seharandleeb/ai-internship-xeven-2026)
+**Currently on Day 6 of 30 — LangChain agents with Groq** · [See full journey →](https://github.com/seharandleeb/ai-internship-xeven-2026)
 
 </div>
 
