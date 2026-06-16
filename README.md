@@ -4,7 +4,6 @@
 <a href="https://github.com/seharandleeb">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I+am+Sehar+Andleeb;AI+Engineer+%7C+ML+%26+LLM+Developer;Building+Intelligent+Systems+Daily" alt="Typing SVG" />
 </a>
-</a>
 
 <br/>
 
@@ -23,6 +22,8 @@
 
 I design and build **applied AI systems** — from classical ML models to **LLM-powered, RAG-based applications**. I learn in public, ship daily, and document everything.
 
+**Currently on Day 16 of 30 — LangChain agents with Groq** · [See full journey →](https://github.com/seharandleeb/ai-internship-xeven-2026)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
@@ -35,12 +36,12 @@ class SeharAndleeb:
     def __init__(self):
         self.role        = "AI Engineer Intern @ Xeven Solutions"
         self.education   = "BS Artificial Intelligence — 8th Semester"
-        self.focus       = ["Machine Learning", "Deep Learning", "LLMs", "RAG Systems"]
-        self.currently   = "Building LLM apps with LangChain + Groq"
+        self.focus       = ["Machine Learning", "LLMs", "RAG Systems", "LangChain"]
+        self.currently   = "Building LLM apps with LangChain + Groq (Day 16/30)"
         self.philosophy  = "Learn in public. Ship every day. Stay curious."
 
     def daily_routine(self):
-        return "Python → Jupyter → Documentation → Real Projects"
+        return "Python → Jupyter → LEARNINGS.md → Real Projects"
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
@@ -60,15 +61,12 @@ class SeharAndleeb:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **LLMs & Generative AI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Tools & Environment**
 
@@ -76,20 +74,23 @@ class SeharAndleeb:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
+> **Note on TensorFlow / PyTorch:** Removed from badges — list only tools you have actively used in a project. Add them back once you've built something with them.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| **[AI Internship — Xeven 2026](https://github.com/seharandleeb/ai-internship-xeven-2026)** | 30-day applied AI journey: daily scripts, notebooks & ML projects, fully documented | `Python` `ML` `Jupyter` |
-| **[Heart Disease Prediction](https://github.com/seharandleeb/heart-disease-prediction)** | ML classification model on real clinical data | `scikit-learn` `Pandas` |
-| **🔜 RAG Document Assistant** | *(planned)* Q&A over PDFs using LangChain + Groq + vector search | `LangChain` `RAG` `Groq` |
-| **🔜 LLM Mini-App** | *(planned)* End-to-end LLM-powered app with a clean UI | `LangChain` `LLMs` |
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **[AI Internship — Xeven 2026](https://github.com/seharandleeb/ai-internship-xeven-2026)** | 30-day applied AI roadmap — daily scripts, notebooks, ML models, fully documented | `Python` `LangChain` `Groq` `Jupyter` | 🟢 Day 16/30 |
+| **[Heart Disease Prediction](https://github.com/seharandleeb/heart-disease-prediction)** | Binary classification on UCI clinical dataset | `scikit-learn` `Pandas` `NumPy` | ✅ Complete |
+| **RAG Document Assistant** | Q&A over PDFs using LangChain + Groq + vector search | `LangChain` `RAG` `Groq` | 🔜 Building next |
+| **LLM Agent App** | End-to-end deployed LLM agent with tool use | `LangChain` `Groq` `Streamlit` | 🔜 Planned |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
@@ -111,53 +112,63 @@ class SeharAndleeb:
 
 </div>
 
-<!-- Snake animation (requires GitHub Action — see setup notes) -->
+<!-- Snake animation — requires GitHub Action setup. Instructions: https://github.com/Platane/snk -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/seharandleeb/seharandleeb/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
+<img src="https://raw.githubusercontent.com/seharandleeb/seharandleeb/output/github-contribution-grid-snake-dark.svg" alt="contribution graph snake animation" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <!-- ===================== CURRENT LEARNING ===================== -->
-## 📚 Currently Learning
+## 📚 Currently Learning (Internship Day 16/30)
 
-- 🔗 **LangChain** — chains, agents, and tool calling with `langchain_groq`
+- 🔗 **LangChain** — chains, agents, and tool calling with `langchain_groq` + `llama-3.3-70b-versatile`
 - 🧩 **RAG Systems** — embeddings, vector stores, retrieval pipelines
 - 🤖 **LLM Application Design** — prompt engineering & production patterns
-- 📈 Deepening **Deep Learning** foundations (PyTorch / TensorFlow)
+- 📊 **ML Fundamentals** — Pandas, NumPy, Scikit-learn on real datasets
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <!-- ===================== INTERNSHIP ===================== -->
-## 💼 Internship Highlight — Xeven Solutions
+## 💼 Internship — Xeven Solutions
 
-> **AI Engineer Intern** | Structured 30-day accelerated AI/ML roadmap
+> **AI Engineer Intern** | 30-day accelerated AI/ML roadmap | June 2026
 >
-> Building production-minded skills through **daily** hands-on work: Python scripting → Jupyter research notebooks → documented learnings → real ML & LLM projects. Every day committed publicly as a record of consistency and growth.
+> Daily workflow: Python scripts → Jupyter research notebooks → `LEARNINGS.md` documentation → real ML & LLM projects. Every day committed publicly as a verifiable record of consistency and growth.
 >
 > 📂 Full journey: **[ai-internship-xeven-2026](https://github.com/seharandleeb/ai-internship-xeven-2026)**
 
+**Progress snapshot:**
+
+| Phase | Topics | Status |
+|---|---|---|
+| Days 01–07 | Python fundamentals, Git, data structures | ✅ Complete |
+| Days 08–14 | Dicts, JSON, loops, OOP, file I/O | ✅ Complete |
+| Days 15–16 | LLM fundamentals, LangChain setup | 🟢 In progress |
+| Days 17–30 | RAG systems, agents, deployed LLM apps | 🔜 Upcoming |
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-<!-- ===================== FUTURE GOALS ===================== -->
+<!-- ===================== ROADMAP ===================== -->
 ## 🎯 AI Engineer Roadmap
 
 ```mermaid
 graph LR
-    A[Python + ML Foundations] --> B[Deep Learning]
-    B --> C[LLMs & LangChain]
-    C --> D[RAG & Vector Search]
+    A[Python + ML Foundations ✅] --> B[LLMs & LangChain 🟢]
+    B --> C[RAG & Vector Search]
+    C --> D[Agents & Tool Use]
     D --> E[Production AI Systems]
     E --> F[AI Engineer 🚀]
+    style A fill:#1D9E75,stroke:#0D1117,color:#ffffff
+    style B fill:#00D9FF,stroke:#0D1117,color:#0D1117
     style F fill:#00D9FF,stroke:#0D1117,color:#0D1117
 ```
 
-- ✅ Master ML fundamentals & data workflows
-- 🔄 Build & deploy real LLM + RAG applications
-- 🎯 Specialize in **applied Generative AI / LLM engineering**
-- 🌍 Contribute to open-source AI tooling
+- ✅ ML fundamentals, data workflows, Python scripting
+- 🟢 LLM apps with LangChain + Groq (active)
+- 🔜 RAG pipelines, vector stores (ChromaDB / FAISS)
+- 🔜 Deploy real AI apps (Streamlit / Hugging Face Spaces)
+- 🎯 Contribute to open-source AI tooling
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
@@ -172,13 +183,13 @@ graph LR
 <a href="https://github.com/seharandleeb">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:seharm518@example.com">
+<a href="mailto:seharm518@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<i>Open to connecting with AI professionals, mentors, and fellow builders.</i>
+<i>Open to AI Engineer roles and collaborations — available from August 2026.</i>
 
 </div>
 
