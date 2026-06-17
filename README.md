@@ -38,8 +38,8 @@ I learn in public. Every day is a commit. Every week is a deliverable.
 |---|---|---|
 | Days 01–07 | Python fundamentals, Git, data structures | ✅ |
 | Days 08–14 | Dicts, JSON, loops, OOP, file I/O | ✅ |
-| Days 15–16 | LLM fundamentals, LangChain setup | 🟢 Active |
-| Days 17–30 | RAG systems, LangGraph agents, deployed apps | Upcoming |
+| Days 15–16 | LLM fundamentals, LangChain setup | ✅ |
+| Days 17–30 | RAG systems, LangGraph agents, deployed apps | 🟢 Active |
 
 → Full journey: [ai-internship-xeven-2026](https://github.com/seharandleeb/ai-internship-xeven-2026)
 
