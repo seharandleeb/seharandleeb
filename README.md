@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&height=45&lines=Building+Multi-Agent+AI+Systems;RAG+%C2%B7+Vector+Search+%C2%B7+LLM+Orchestration;CrewAI+%C2%B7+LangChain+%C2%B7+FastAPI;Open+to+AI+Engineer+Roles+%E2%80%94+Aug+2026" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/seharandleeb/seharandleeb/main/assets/sehar.png" width="140" height="140" style="border-radius:50%;object-fit:cover;"/>
+
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/sehar-andleeb518"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
