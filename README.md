@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sehar%20Andleeb&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%26%20LLM%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/seharandleeb/seharandleeb/main/assets/banner.svg" width="100%"/>
 
 <a href="https://github.com/seharandleeb">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&height=45&lines=Building+Multi-Agent+AI+Systems;RAG+%C2%B7+Vector+Search+%C2%B7+LLM+Orchestration;CrewAI+%C2%B7+LangChain+%C2%B7+FastAPI;Open+to+AI+Engineer+Roles+%E2%80%94+Aug+2026" alt="Typing SVG" />
@@ -180,4 +180,4 @@ If you're building agentic systems, LLM applications, or RAG infrastructure and 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/seharandleeb/seharandleeb/main/assets/footer.svg" width="100%"/>
