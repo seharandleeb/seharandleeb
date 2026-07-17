@@ -142,12 +142,12 @@ Currently completing an applied AI Engineering track at **Xeven Solutions**, shi
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=seharandleeb&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cbd5e1&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharandleeb&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=cbd5e1"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=seharandleeb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=cbd5e1&hide_rank=true&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seharandleeb&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=cbd5e1&langs_count=6"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seharandleeb&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=cbd5e1&dates=64748b"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seharandleeb&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakNum=ffffff&sideNums=cbd5e1&currStreakLabel=A78BFA&sideLabels=cbd5e1&dates=64748b&stroke=0d1117"/>
 
 <br/>
 
