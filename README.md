@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/sehar-andleeb518"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:seharm518@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fseharandleeb%2Freadme&color=302B63"/>
+<img src="https://komarev.com/ghpvc/?username=seharandleeb&label=Profile+Views&color=A78BFA&style=for-the-badge"/>
 
 </div>
 
